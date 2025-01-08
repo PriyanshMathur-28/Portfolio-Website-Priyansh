@@ -18,7 +18,7 @@ const Qualification = () => {
                     <div
                         className={initialstate === true ? "qualification_button qualification_active button--flex" : "qualification_button button--flex"}
                         onClick={() => toggletab('education')}
-                         style={{border:"1px solid gray", backgroundColor:"black",borderRadius:"10px",padding:"5px",color:"white",fontSize:"15px"}} >
+                         style={{border:"1px solid gray", backgroundColor:"black",borderRadius:"10px",padding:"5px",color:"white",fontSize:"15px"}}>
                         <i className="fa-solid fa-graduation-cap qualification_icon"></i> Education
                     </div>
 
@@ -39,8 +39,8 @@ const Qualification = () => {
                                 <div className="qualification_calendar">
                                 </div>
                             </div>
-                            <div>
-                                <span className="qualification_rounder"></span>
+                            <div >
+                                <span className="qualification_rounder" ></span>
                                 <span className="qualification_line"></span>
                             </div>
                         </div>
