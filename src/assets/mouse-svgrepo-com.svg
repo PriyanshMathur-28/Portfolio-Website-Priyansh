@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="800px" height="800px" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" class="home__scroll-mouse">
+  <g id="mouse">
+    <!-- Circular shape representing the mouse body -->
+    <path id="circle" d="M5 9C5 5.13401 8.13401 2 12 2C15.866 2 19 5.13401 19 9V15C19 18.866 15.866 22 12 22C8.13401 22 5 18.866 5 15V9Z" stroke="#000000" stroke-width="1.5" fill="none" class="wheel"/>
+    
+    <!-- Vertical line representing the mouse's central feature -->
+    <path id="vertical-line" d="M12 7V10" stroke="#000000" stroke-width="1.5" stroke-linecap="round"/>
+  </g>
+</svg>
