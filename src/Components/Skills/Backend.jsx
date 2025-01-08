@@ -2,7 +2,7 @@ const Backend = () => {
   return (
       <main className="backend">
       <div className="skills_content">
-        <h3 className="skills_title" style={{color:"#007BFF"}}>Backend Developer</h3>
+        <h3 className="skills_title" >Backend Developer</h3>
         <div className="skills_box">
 
           <div className="skills_group2">

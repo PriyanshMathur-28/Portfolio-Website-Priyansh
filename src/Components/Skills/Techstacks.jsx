@@ -3,7 +3,7 @@ const Techstacks = () => {
       <>   
       <div className="Tech_stack">
         <div className="skills_content3">
-          <h3 className="skills_title" style={{color:"#007BFF"}}>Other Technologies</h3>
+          <h3 className="skills_title" >Other Technologies</h3>
           <div className="skills_box">
             <div className="skills_group1">
               <div className="skills_data">
