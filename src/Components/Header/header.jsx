@@ -54,8 +54,7 @@ const Header = () => {
               showMenu(!Toggle);
             }
           }>
-            <i className="fa-solid fa-grip nav_openbar"></i>
-          </div>
+<i className="fa-solid fa-hand-pointer"></i>          </div>
 
         </nav>
       </header>

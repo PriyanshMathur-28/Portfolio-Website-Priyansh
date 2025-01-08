@@ -19,14 +19,14 @@ const Qualification = () => {
                         className={initialstate === true ? "qualification_button qualification_active button--flex" : "qualification_button button--flex"}
                         onClick={() => toggletab('education')}
                          style={{border:"1px solid gray", backgroundColor:"black",borderRadius:"10px",padding:"5px",color:"white",fontSize:"15px"}}>
-                        <i className="fa-solid fa-graduation-cap qualification_icon"></i> Education
+                        <i className="fa-solid fa-angle-down qualification_icon"></i> Education
                     </div>
 
                     <div
                         className={initialstate === false ? "qualification_button button--flex" : "font_hello"}
                         onClick={() => toggletab('experience')}
                         style={{border:"1px solid gray", backgroundColor:"black",borderRadius:"10px",padding:"5px",paddingRight:"10px",paddingLeft:"10px",color:"white",fontSize:"15px"}}>
-                        <i className="fa-solid fa-briefcase qualification_icon"></i> Experience
+                       <i className="fa-solid fa-angle-down qualification_icon"></i> Experience
                     </div>
                 </div>
 
