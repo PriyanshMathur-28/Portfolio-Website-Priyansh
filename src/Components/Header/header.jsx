@@ -54,7 +54,7 @@ const Header = () => {
               showMenu(!Toggle);
             }
           }>
-<i className="fa-solid fa-hand-pointer"></i>          </div>
+<i className="fa-solid fa-angle-up qualification_icon"></i>         </div>
 
         </nav>
       </header>
