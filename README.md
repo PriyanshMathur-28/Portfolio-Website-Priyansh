@@ -57,9 +57,6 @@ react-portfolio/
 │── README.md             # Project documentation
 ```
 
-## 📂 Assets
-You can download the assets used in the project here:
-[Download Assets](https://drive.google.com/file/d/1WfLk...)
 
 ## 🛠️ Technologies Used
 - **React.js** – Frontend Framework
@@ -67,14 +64,6 @@ You can download the assets used in the project here:
 - **Email.js** – Contact Form Integration
 - **JavaScript (ES6+)** – Logic and Functionality
 
-## 📌 Tutorial Reference
-This project was inspired by a YouTube tutorial. You can watch the tutorial here:
-[Watch on YouTube](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK)
-
-## 🙌 Support
-If you like this project, consider following me:
-- **GitHub**: [PriyanshMathur](https://github.com/PriyanshMathur)
-- **Portfolio Website**: [priyanshmathur.dev](https://priyanshmathur.dev)
 
 ## 📜 License
 This project is licensed under the **MIT License**.
