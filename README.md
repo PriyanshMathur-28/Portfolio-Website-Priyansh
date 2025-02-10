@@ -1,13 +1,83 @@
-<<<<<<< HEAD
-# React + Vite
+# Priyansh Mathur's React Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fully responsive personal portfolio website built using **React.js**, showcasing my skills, projects, and contact details. This project demonstrates modern web development techniques, animations, and interactive UI components.
 
-Currently, two official plugins are available:
+Live Link: https://portfolio-website-priyansh.vercel.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
-# Portfolio-Website-Priyansh
-My first Project as a developer!
->>>>>>> f5e598a6b3403d2cc566e4a8d9ac1cad46a96d71
+## 📌 Features
+- **Responsive Design** – Optimized for all devices.
+- **Tab Functionality** – Dynamic tab navigation.
+- **Filterable Portfolio Gallery** – Sort and showcase projects effectively.
+- **Popup Modals** – View detailed project descriptions.
+- **Multiple Contact Options** – Includes WhatsApp, Facebook Messenger, and Email.js.
+- **Smooth Scroll and Navigation** – Enhances user experience with scroll-to-top functionality.
+
+## 🚀 Getting Started
+
+### Prerequisites
+Ensure you have the following installed:
+- **Node.js** (Download from [nodejs.org](https://nodejs.org/))
+- **npm** or **yarn** (Comes with Node.js)
+
+### Installation
+
+1. **Clone the repository**
+   ```sh
+   git clone https://github.com/PriyanshMathur/react-portfolio.git
+   cd react-portfolio
+   ```
+
+2. **Install dependencies**
+   ```sh
+   npm install  
+   # or
+   yarn install
+   ```
+
+3. **Start the development server**
+   ```sh
+   npm start  
+   # or
+   yarn start
+   ```
+
+The app will be available at `http://localhost:5173/`.
+
+## 📁 Project Structure
+```
+react-portfolio/
+│── public/               # Static files
+│── src/
+│   ├── components/       # Reusable components
+│   ├── assets/           # Images, icons, and assets
+│   ├── pages/            # Page components
+│   ├── App.js            # Main component
+│   ├── index.js          # Entry point
+│── package.json          # Dependencies and scripts
+│── README.md             # Project documentation
+```
+
+## 📂 Assets
+You can download the assets used in the project here:
+[Download Assets](https://drive.google.com/file/d/1WfLk...)
+
+## 🛠️ Technologies Used
+- **React.js** – Frontend Framework
+- **CSS3** – Styling
+- **Email.js** – Contact Form Integration
+- **JavaScript (ES6+)** – Logic and Functionality
+
+## 📌 Tutorial Reference
+This project was inspired by a YouTube tutorial. You can watch the tutorial here:
+[Watch on YouTube](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK)
+
+## 🙌 Support
+If you like this project, consider following me:
+- **GitHub**: [PriyanshMathur](https://github.com/PriyanshMathur)
+- **Portfolio Website**: [priyanshmathur.dev](https://priyanshmathur.dev)
+
+## 📜 License
+This project is licensed under the **MIT License**.
+
+---
+Built by Priyansh Mathur
